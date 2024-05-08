@@ -1,2 +1,2 @@
-# Automa-o-web-completa
+# Automacao-web-completa
 Teste automatizados com: Junit,Cucumber. Utilizando a linguagem: Java
